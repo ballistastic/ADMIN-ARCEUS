@@ -1122,7 +1122,7 @@ else
     Chat("V "..Versions)
 end]]
  
-Notify("Loaded admin commands", Color3.fromRGB(0, 255, 0), "Loads")
+Notify("Ballistastic Gaming Admin Commands Loaded!", Color3.fromRGB(0, 255, 0), "Loads")
  
 function PlayerChatted(Message)
     if ScriptDisabled then return end
