@@ -153,7 +153,7 @@ Label.TextScaled = true
 Label.TextSize = 14.000
 Label.TextWrapped = true
  
-Execute.Name = "Execute"
+Execute.Name = "Puki Execute"
 Execute.Parent = Background2
 Execute.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 Execute.BorderColor3 = Color3.fromRGB(0, 255, 0)
@@ -1115,7 +1115,7 @@ local Walls = {
     Chat("Admin Commands Version "..Versions)
     Chat("Current Prefix Is "..Prefix)
     wait()
-    Chat("Admin Commands Loaded!")
+    Chat("Ballistastic Gaming Admin Commands Loaded!")
 else
     Chat("Loaded")
     Chat("P "..Prefix)
